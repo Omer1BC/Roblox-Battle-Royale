@@ -7,6 +7,7 @@ Logistics
 --
 I have provided the main gameplay .lua files, but the game can be fully reconstructed by loading the provided .rbxl file into Roblox Studio. The full file includes the models, animations, UI elements, and mechanics not covered by the script.
 
+<img width="601" alt="image" src="https://github.com/Omer1BC/Roblox-Battle-Royale/assets/108303028/7fdf5668-0977-4ac7-a27f-698a31105702">
 
 
 <img width="492" alt="image" src="https://github.com/Omer1BC/Roblox-Battle-Royale/assets/108303028/fafe2306-8c47-45a6-979a-aa8ee2bbdb2f">
@@ -14,6 +15,8 @@ I have provided the main gameplay .lua files, but the game can be fully reconstr
 
 
 <img width="585" alt="image" src="https://github.com/Omer1BC/Roblox-Battle-Royale/assets/108303028/c29552ec-77be-4ff6-b57d-93e24700f9c9">
+
+
 
 <img width="607" alt="image" src="https://github.com/Omer1BC/Roblox-Battle-Royale/assets/108303028/d7d1289a-64de-460e-93ad-b45f3d2d1215">
 
